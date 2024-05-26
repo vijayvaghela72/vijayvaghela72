@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijayvaghela72
 - 👀 I’m interested in programming
-- 🌱 I’m experinced flutter developer with 4+ years of experinced
+- 🌱 I’m experinced flutter developer with 5+ years of experinced
 - 💬 Ask me about Flutter
 - 📫 How to reach me contact : +919925880172
 
